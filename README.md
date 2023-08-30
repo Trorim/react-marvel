@@ -2,7 +2,7 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## You can view the project [here](https://react-marvel-topaz.vercel.app).
+## You can view the project [here](https://react-marvel-kohl.vercel.app/).
 
 ## Available Scripts
 
